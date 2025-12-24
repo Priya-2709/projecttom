@@ -17,4 +17,4 @@ spec:
     spec:
       containers:
       - image: public.ecr.aws/y5h2u1j4/mindtree
-        name: mindtree
+        name: mindtreerepo
