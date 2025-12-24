@@ -28,7 +28,7 @@
   <body>
     <tagfiles:header />
     <div id="hate" class="container snakes snake-hater">
-      <h1 class="cover-heading">WELCOME TO PRIYA'S PROJECT</h1>
+      <h1 class="cover-heading">WELCOME TO PRIYA'S PROJECT !</h1>
       <p class="lead">THIS IS A JAVA WEBPAGE</p>
       <!--Intro -->
       <h2>Do you or a loved one hate snakes?</h2>
@@ -81,4 +81,5 @@
     <script src="js/init.js"></script>
   </body>
 </html>
+
 
